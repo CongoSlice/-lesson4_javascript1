@@ -13,7 +13,7 @@ LIS 2360:  Web Application Development
 (In this assignment we learn the basics of javascript and use some of the concepts learned to create a functioning calculator.)
 
 ### View Project:
-https://congoslice.github.io/-lesson4_javascript1/
+https://congoslice.github.io/-lesson4_javascript1/Lesson4_ExpenseCalculator/
 
 ### Lessons Learned in the Assignment:
 1. (I learned how to use basic javascript functions to do math.)
