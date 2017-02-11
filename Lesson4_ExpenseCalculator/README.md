@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 10, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Lucas West)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment we learn the basics of javascript and use some of the concepts learned to create a functioning calculator.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://congoslice.github.io/-lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to use basic javascript functions to do math.)
+2. (Javascript is used to crate dynamic web pages which are much more interactive and user friendly.)
+3. (Syntax is crucial when using javascript as there are certain ways to wirte code that are faster than others, yet manage to do the same function.)
